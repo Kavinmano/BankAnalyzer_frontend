@@ -29,6 +29,4 @@ Users can upload their **CSV/PDF bank statements**, view monthly summaries, top 
 | Charts | Recharts |
 | Styling | CSS / Inline minimal styles |
 
----
 
-## 📂 Folder Structure
